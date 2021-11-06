@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SensorApp</string>
+    <string name="message">Light sensor</string>
+</resources>
